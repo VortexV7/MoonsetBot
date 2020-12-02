@@ -29,7 +29,7 @@ exports.run = (client, message, args, level) => {
     );
 
     let currentCategory = "";
-    let output = `=== Command List ===\n\n[Use ${message.settings.prefix}help <commandname> for details]\n(More extensive documentation at https://shpeebot.github.io/docs/commands.html)\n`;
+    let output = `=== Command List ===\n\n[Use ${message.settings.prefix}help <commandname> for details]\n(https://moonsetvalley.com)\n`;
     const sorted = myCommands
       .array()
       .sort((p, c) =>

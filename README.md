@@ -1,3 +1,7 @@
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MoonsetBot" src="https://cdn.discordapp.com/attachments/757047494478659673/783370025074950184/moonsetbot.png">  
+
+# Moonsetot
+
 This bot has lots of commands and even a dashboard.
 This is my first discord bot. I have spent a lot of time on it so I would aprecitate it if you would show some love.
 

@@ -11,7 +11,7 @@ exports.run = async (client, message, args, level) => {
       `MoonsetBot is an open source multi-purpose Discord bot.`
     )
     .addFields(
-      { name: "GitHub Repository", value: "https://github.com/MoonsetValleyRP/MoonsetBot" }" 
+      { name: "GitHub Repository", value: "https://github.com/MoonsetValleyRP/MoonsetBot" } 
     )
     .setFooter(`Time taken: ${Date.now() - time}ms`);
   message.channel.send({ embed });

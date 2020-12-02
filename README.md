@@ -1,6 +1,5 @@
-
-This is a bot that I have spent a lot of time on , so I would aprecitate it if you would show some love.
-This is my first discord bot.
+This bot has lots of commands and even a dashboard.
+This is my first discord bot. I have spent a lot of time on it so I would aprecitate it if you would show some love.
 
 # --Self-Hosting--
 To self host my bot is simple. All you need to do is follow these instructions.

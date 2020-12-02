@@ -16,7 +16,7 @@ To self host my bot is simple. All you need to do is follow these instructions.
 **5.** At this point you are done. Now all you need to do is run this command: node bot.js
 
 
-## **--Have any questions?--
+## **--Have any questions?--**
 
 If you have any questions feel free to join my discord and I will try to help you.
 

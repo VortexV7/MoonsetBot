@@ -1,6 +1,6 @@
 const config = {
   // Bot Owner, level 10 by default. A User ID. Should never be anything else than the bot owner's ID.
-  "ownerID": "492799719568048128",
+  "ownerID": "XXXXXXXX",
 
   // Bot Admins, level 9 by default. Array of user ID strings.
   "admins": [],
@@ -9,7 +9,7 @@ const config = {
   "support": [],
 
   // Your Bot's Token. Available on https://discord.com/developers/applications/me
-  "token": "Nzc2ODM5MjgzNjExNzk1NDc2.X66t9g.6dNP172Nn_WVaaGPngn3FE9DnuU",
+  "token": "XXXXXXXX",
 
   // Intents the bot needs.
   // By default GuideBot needs Guilds, Guild Messages and Direct Messages to work.
@@ -43,7 +43,7 @@ const config = {
   
   // Used for music commands. You need to have these APIs enabled.
   // See the wiki for steps on enabling APIs on your token
-  googleAPIToken: "AIzaSyBT82X1xIOf06MpvkMdo3ErTm4H23gD5Hc",
+  googleAPIToken: "XXXXXXXX",
   
   // The format you want the bot to log time in
   logTimeFormat: "D MMM YYYY HH:mm:ss ZZ",
@@ -100,7 +100,7 @@ const config = {
     // You'll want to fill these in if you don't want any legal issues...
     legalTemplates: {
       // This email will be used in the legal page of the dashboard if someone needs to contact you for any reason regarding this page
-      contactEmail: "nickk@mvrp.com",
+      contactEmail: "XXXXXXXX",
       // Change this if you update the `TERMS.md` or `PRIVACY.md` files in `dashboard/public/`
       lastEdited: "1 December 2020"
     }

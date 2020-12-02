@@ -8,14 +8,10 @@ exports.run = async (client, message, args, level) => {
     .setColor("GREEN")
     .setTitle("Bot Info")
     .setDescription(
-      `ShpeeBot is an open source multi-purpose Discord bot. \n Type [prefix]help in a text channel for commands`
+      `MoonsetBot is an open source multi-purpose Discord bot.`
     )
     .addFields(
-      { name: "GitHub Repository", value: "https://github.com/ShpeeBot/ShpeeBot" },
-      { name: "\u200B", value: "\u200B" },
-      { name: "Discord.js Version", value: `v${Discord.version}`, inline: true },
-      { name: "Node Version", value: `${process.version}`, inline: true },
-      { name: "Bot Version", value: `${client.version}`, inline: true }
+      { name: "GitHub Repository", value: "https://github.com/MoonsetValleyRP/MoonsetBot" }" 
     )
     .setFooter(`Time taken: ${Date.now() - time}ms`);
   message.channel.send({ embed });

@@ -12,4 +12,8 @@ This is my first discord bot.
 ### --Self-Hosting--
 To self host my bot is simple.All you need to do is follow thesse instructions.
 
-first clown this respotory with this:
+**1.** Clone  this respotory with this: **git clone https://github.com/MoonsetValleyRP/MoonsetBot
+
+**2.** Open the [config.js.example()] file and fill out the all of the "XXXXXXXX"
+
+**3.** open your file location in node js and type this: **npm install** to install the dependincs.
